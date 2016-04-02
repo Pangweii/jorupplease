@@ -1,0 +1,14 @@
+1. Keygen 실행 및 키코드 복사
+	--> keygen.exe
+
+2. 레지스터리 키 변경
+
+	*** 처음설치시는 관계 없을 수 있음^__________^
+	
+	HKEY_LOCAL_MACHINE
+		SOFTWARE
+			Source dynamics
+				Source Insight
+					3.0
+						Install
+							SerialNumber
