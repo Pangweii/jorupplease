@@ -1,0 +1,3 @@
+[console_scripts]
+parse_pcap = pcapparser.__main__:main
+
